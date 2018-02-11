@@ -173,7 +173,8 @@ table {
 
 
 .hero--small {
-    min-height: 26.75rem;
+    min-height: 20rem;
+    overflow: hidden;
 }
 
 
